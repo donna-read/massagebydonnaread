@@ -2,7 +2,7 @@
 
 Served from GitHub Pages
 
-https://donna-read.github.io/massagebydonnaread
+https://donna-read.github.io/massage-by-donna-read
 
 ## Usage
 

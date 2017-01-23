@@ -6,7 +6,7 @@ author:
   name: Mike Causer
   email: mcauser@gmail.com
 
-url: https://donna-read.github.io/massagebydonnaread
+url: http://donna-read.github.io/massage-by-donna-read
 
 exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
 
