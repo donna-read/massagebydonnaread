@@ -14,7 +14,6 @@ permalink: /
         Detox Exfoliation Bodyscrub, Hot Oil Head &amp; Neck Massage and Cellulite Treatment</p>
       <p>$135 for an hour and a half, $90 per hour or $50 per half hour - gift vouchers available.</p>
       <p>&quot;A fantastic massage with great results!&quot;</p>
-      <p>Health fund rebates are available.</p>
       <p>Located at Sunshine Beach QLD.</p>
       <p>For an appointment please call me on: <a href="tel:0402473804">0402 473 804</a></p>
     </article>
