@@ -10,7 +10,7 @@ permalink: /contact
     <h1>Contact</h1>
     <article>
       <p>For an appointment please call me on: <a href="tel:0402473804">0402 473 804</a></p>
-      <p>For all other enquiries you can reach me at <a href="mailto:donna@massagebydonnaread.com.au">donna@massagebydonnaread.com.au</a></p>
+      <p>For all other enquiries you can reach me at <a href="mailto:donnaemily222@gmail.com">donnaemily222@gmail.com</a></p>
       <p>Open 7 days, 7am to 7pm.</p>
       <p>My studio is located at:</p>
       <p>38 Webya St<br>Sunshine Beach QLD 4567</p>
